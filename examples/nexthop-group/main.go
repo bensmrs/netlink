@@ -27,7 +27,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/vishvananda/netlink"
+	"github.com/bensmrs/netlink"
 )
 
 var (

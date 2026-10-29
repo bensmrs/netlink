@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/vishvananda/netlink/nl"
+	"github.com/bensmrs/netlink/nl"
 )
 
 func TestBridgeVlan(t *testing.T) {

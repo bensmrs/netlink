@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vishvananda/netlink/nl"
+	"github.com/bensmrs/netlink/nl"
 )
 
 // setupNetDevTest skips the test unless the running kernel exposes the netdev

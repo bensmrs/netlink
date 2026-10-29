@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/vishvananda/netlink/nl"
+	"github.com/bensmrs/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 

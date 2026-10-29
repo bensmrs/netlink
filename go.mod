@@ -1,4 +1,4 @@
-module github.com/vishvananda/netlink
+module github.com/bensmrs/netlink
 
 go 1.23
 
